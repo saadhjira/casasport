@@ -1,0 +1,320 @@
+﻿
+#message erreure commun
+
+msgid "Title is required"
+msgstr "مطلوب عنوان"
+#COMMON
+
+msgid "Search"
+msgstr "بحث"
+
+msgid "Media"
+msgstr "مرئيات"
+
+msgid "Articles"
+msgstr "المواد"
+
+##topMenu 
+msgid "Articles"
+msgstr "المواد"
+
+msgid "اضافة مادة"
+msgstr "Add article"
+
+msgid "List articles"
+msgstr "قائمة المواد"
+
+msgid "Menus"
+msgstr "القوائم"
+
+msgid "Add menus"
+msgstr "اضافة قائمة"
+
+msgid "List menus"
+msgstr "لائحة القوائم"
+
+msgid "Media"
+msgstr "مرئيات"
+
+msgid "Add Media"
+msgstr "اضافة مادة مرئية"
+
+msgid "List Media"
+msgstr "قائمة المرئيات"
+
+
+msgid "Add categories"
+msgstr "اضافة بوابة"
+
+msgid "List categories"
+msgstr "قائمة البوابات"
+
+
+
+msgid "Users"
+msgstr "مستخدم"
+
+msgid "Add users"
+msgstr "اضافة مستخدم"
+
+msgid "List users"
+msgstr "قائمة المستخدمين"
+
+msgid "Change password"
+msgstr "تغيير كلمة المرور"
+
+msgid "Edit user"
+msgstr "تحرير مستخدم"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "upload"
+msgstr "تحميل"
+
+msgid "Title"
+msgstr "العنوان"
+
+msgid "Vedio"
+msgstr "فيديو"
+
+msgid "Categories"
+msgstr "الفئات"
+
+msgid "Options"
+msgstr "خيارات"
+#                            USERS
+
+msgid "Confirm password"
+msgstr "تأكيد كلمة المرور"
+
+msgid "Password"
+msgstr "كلمة المرور"
+
+msgid "Email"
+msgstr "الايميل"
+
+msgid "Username"
+msgstr "اسم المستخدم"
+
+msgid "liste des users"
+msgstr "قائمة المستخدمين"
+
+msgid "Add user"
+msgstr "إضافة مستخدم"
+
+
+msgid "RealName"
+msgstr "الاسم الحقيقي"
+
+msgid "Disabled"
+msgstr "معطل"
+
+msgid "photo"
+msgstr "صورة"
+
+msgid "Biography"
+msgstr "سيرة"
+
+msgid "Confirm Password"
+msgstr "تأكيد كلمة المرور"
+
+msgid "Groups"
+msgstr "مجموعة"
+
+#                              ARTICLE
+
+msgid ""
+msgstr "المادة"
+
+msgid "Source"
+msgstr "المصدر"
+
+msgid "Date published"
+msgstr "تاريخ النشر"
+
+msgid "Author"
+msgstr "الكاتب"
+
+msgid "published"
+msgstr "النشر"
+
+msgid "Add article"
+msgstr "اضافة مادة"
+
+msgid "liste des article"
+msgstr "قائمة المواد"
+
+msgid "Date"
+msgstr "تاريخ"
+
+msgid "weight"
+msgstr "ترتيب"
+#                          CATEGORIE
+
+msgid "Parent Categories"
+msgstr "أصل البوابة"
+
+msgid "liste des catégories"
+msgstr "قائمة البوابة"
+
+msgid "Add Category"
+msgstr "اضافة بوابة"
+
+#                              MEDIA
+
+msgid "Caption"
+msgstr "وصف"
+
+msgid "List media"
+msgstr "قائمة وسائل الإعلام"
+
+
+
+msgid "Add Media"
+msgstr "اضافة وسيلة اعلامية"
+
+								#MENU
+
+msgid "liste des menus"
+msgstr "لائحة القوائم"
+
+msgid "Add Menu"
+msgstr "اضف قائمة"
+
+msgid "Picture"
+msgstr "صورة"
+
+msgid "Type"
+msgstr "نوع"
+											#Boxing
+
+msgid "Boxes"
+msgstr "حاويات"
+
+msgid "Add Boxes"
+msgstr " اضافة حاوية  "
+
+msgid "List Boxes"
+msgstr "قائمة حاويات"
+
+
+
+msgid "page_type"
+msgstr "page_type"
+
+msgid "fg_key"
+msgstr "fg_key"
+
+msgid "Parent Boxes"
+msgstr "Parent Boxes"
+
+msgid "joins"
+msgstr "joins"
+
+msgid "from"
+msgstr "from "
+
+msgid "where"
+msgstr "where"
+
+msgid "orderBy"
+msgstr "orderBy"
+
+msgid "limit"
+msgstr "limit"
+
+msgid "label"
+msgstr "label"
+
+msgid "link"
+msgstr "link"
+
+msgid "auto"
+msgstr "auto"
+
+msgid "isHtml"
+msgstr "isHtml"
+
+msgid "html"
+msgstr "html"
+
+msgid "partial_name"
+msgstr "partial_name"
+
+msgid "disabled"
+msgstr "disabled"
+
+				#Comments
+
+msgid "Comment"
+msgstr "تعليقات "
+
+msgid "Add comments"
+msgstr "اضف تعليق "
+
+msgid "Picture"
+msgstr "Picture"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "E-mail"
+msgstr "الايميل"
+
+msgid "Nickname"
+msgstr "لإسم"
+
+msgid "nickname_error"
+msgstr "يرجى تحديد الاسم"
+
+msgid "email_error"
+msgstr "يرجى تحديد نص التعليق"
+msgid "body_error"
+msgstr "يرجى تحديد عنوان التعليق"
+
+msgid "message_error"
+msgstr "تم استلام تعليقك ، نشكر لك تجاوبك ، ونرجو منك دوام التواصل"
+
+#polls
+msgid "submit"
+msgstr "تصويت"
+
+msgid "Polls"
+msgstr "إستفتاء"
+
+msgid "add polls"
+msgstr "أضف إستفتاء"
+
+msgid "list choices"
+msgstr "قائمة الاختيارات"
+
+msgid "add choices"
+msgstr "أضف اختيارات"
+
+
+msgid "PDF Alhayat"
+msgstr "pdf نسخة  "
+
+msgid "Add PDF"
+msgstr "pdf اضافة   "
+
+msgid "List PDF"
+msgstr "pdf قائمة"
+
+
+msgid "N° Edition"
+msgstr "رقم الاصدار"
+
+msgid "date publication"
+msgstr "تاريخ الاصدار"
+
+msgid "Date Visibilité"
+msgstr "تاريخ النشر"
+
+
+msgid "upload image"
+msgstr "تحميل الصورة "

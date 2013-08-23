@@ -1,0 +1,282 @@
+﻿#message erreure commun
+
+msgid "Title is required"
+msgstr "Title is required"
+
+#COMMON
+
+##topMenu 
+msgid "Articles"
+msgstr "Articles"
+
+msgid "Add article"
+msgstr "Add article"
+
+msgid "List articles"
+msgstr "List articles"
+
+msgid "Menus"
+msgstr "Menus"
+
+msgid "Add menus"
+msgstr "Add menus"
+
+msgid "List menus"
+msgstr "List menus"
+
+msgid "Media"
+msgstr "media"
+
+msgid "Add Media"
+msgstr "Add Media"
+
+msgid "List Media"
+msgstr "List Media"
+
+
+msgid "Add categories"
+msgstr "Add categories"
+
+msgid "List categories"
+msgstr "List categories"
+
+
+
+msgid "Users"
+msgstr "Users"
+
+msgid "Add users"
+msgstr "Add users"
+
+msgid "List users"
+msgstr "List users"
+
+
+
+msgid "Search"
+msgstr "Search"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "upload"
+msgstr "upload"
+
+msgid "Title"
+msgstr "Title"
+
+
+
+msgid "Vedio"
+msgstr "Vedio"
+
+msgid "Categories"
+msgstr "Categories"
+
+msgid "Options"
+msgstr "Options"
+#                            USERS
+
+msgid "Confirm password"
+msgstr "Confirm password"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "liste des users"
+msgstr "List of users"
+
+msgid "Add user"
+msgstr "Add user"
+
+msgid "RealName"
+msgstr "RealName"
+
+msgid "Disabled"
+msgstr "Disabled"
+
+msgid "photo"
+msgstr "photo"
+
+msgid "Biography"
+msgstr "Biography"
+
+msgid "Biography"
+msgstr "Biography"
+
+msgid "Confirm Password"
+msgstr "Confirm Password"
+
+
+msgid "Groups"
+msgstr " Groups"
+#                              ARTICLE
+
+msgid "Body"
+msgstr "Body"
+
+msgid "Source"
+msgstr "Source"
+
+msgid "Date published"
+msgstr "Date published"
+
+msgid "Author"
+msgstr "Author"
+
+msgid "published"
+msgstr "published"
+
+msgid "Add article"
+msgstr "Add article"
+
+msgid "liste des article"
+msgstr "Article list"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "weight"
+msgstr "weight"
+#                          CATEGORIE
+
+msgid "liste des catégories"
+msgstr "Category List"
+
+msgid "Add Category"
+msgstr "Add Category"
+
+msgid "Parent Categories"
+msgstr "Parent Categories"
+
+#                              MEDIA
+
+msgid "Caption"
+msgstr "Caption"
+
+msgid "List media"
+msgstr "List media"
+
+
+
+msgid "Add Media"
+msgstr "Add Media"
+
+								#MENU
+
+msgid "liste des menus"
+msgstr "menu list"
+
+msgid "Add Menu"
+msgstr "Add Menu"
+
+msgid "Picture"
+msgstr "Picture"
+
+msgid "Type"
+msgstr "Type"
+								#Comments
+
+msgid "liste des comment"
+msgstr "comments list"
+
+msgid "Add comments"
+msgstr "Add comment"
+
+msgid "Picture"
+msgstr "Picture"
+
+msgid "Type"
+msgstr "Type"
+
+											#Boxing
+
+msgid "Boxes"
+msgstr "Boxes"
+
+msgid "Add Boxes"
+msgstr "Add Boxes"
+
+msgid "List Boxes"
+msgstr "List Boxes"
+
+
+msgid "from"
+msgstr "from"
+
+msgid "where"
+msgstr "where"
+
+msgid "orderBy"
+msgstr "orderBy"
+
+msgid "limit"
+msgstr "limit"
+
+msgid "label"
+msgstr "label"
+
+msgid "link"
+msgstr "link"
+
+msgid "auto"
+msgstr "auto"
+
+msgid "isHtml"
+msgstr "isHtml"
+
+msgid "html"
+msgstr "html"
+
+msgid "partial_name"
+msgstr "partial_name"
+
+msgid "disabled"
+msgstr "disabled"
+
+				#Comments
+
+msgid "Comment"
+msgstr "Comment"
+
+msgid "Add comments"
+msgstr "Add comments"
+
+msgid "Picture"
+msgstr "Picture"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Nickname"
+msgstr "Nickname"
+
+msgid "nickname_error"
+msgstr "nickname_error"
+
+msgid "email_error"
+msgstr "email_error"
+msgid "body_error"
+msgstr "body_error"
+
+msgid "message_error"
+msgstr "message_error"
+
+
+
+
+
+
+

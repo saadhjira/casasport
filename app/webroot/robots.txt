@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://www.wijhatnadar.com/sitemap/sitemap_index.xml

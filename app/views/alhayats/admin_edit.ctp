@@ -1,0 +1,1 @@
+<?php echo $this->element("/alhayats/admin_add");  ?>

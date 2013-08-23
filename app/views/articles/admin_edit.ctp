@@ -1,0 +1,1 @@
+<?php echo $this->element("/articles/admin_add");  ?>

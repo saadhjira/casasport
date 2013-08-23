@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="42" version="2.0">
+<workbenchAdvisor/>
+<window height="1058" maximized="true" width="1872" x="896" y="392">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="106" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="com.aptana.ui.globalActionSet" itemType="typeToolBarContribution" x="150" y="22"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="114" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="40" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="76" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="70" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="com.aptana.editor.svg" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.json" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.js" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.html" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.css" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.php" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page focus="true" label="Workspace - Web">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="com.aptana.editor.php" name="pages_controller.php" partName="pages_controller.php | wijhatnadar" title="pages_controller.php | wijhatnadar" tooltip="/Applications/XAMPP/htdocs/wijhatnadar/app/controllers/pages_controller.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/wijhatnadar/app/controllers/pages_controller.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="11" selectionOffset="7209" selectionTopPixel="1194"/>
+</editor>
+<editor id="com.aptana.editor.php" name="routes.php" partName="routes.php | wijhatnadar" title="routes.php | wijhatnadar" tooltip="/Applications/XAMPP/htdocs/wijhatnadar/app/config/routes.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/wijhatnadar/app/config/routes.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="4962" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.php" name="routes.php" partName="routes.php | sijilmassa" title="routes.php | sijilmassa" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/config/routes.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/config/routes.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1968" selectionTopPixel="704"/>
+</editor>
+<editor id="com.aptana.editor.php" name="pages_controller.php" partName="pages_controller.php | sijilmassa" title="pages_controller.php | sijilmassa" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/controllers/pages_controller.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/controllers/pages_controller.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2487" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.php" name="article.php" partName="article.php | sijilmassa" title="article.php | sijilmassa" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/helpers/article.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/helpers/article.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1387" selectionTopPixel="448"/>
+</editor>
+<editor id="com.aptana.editor.php" name="article.php" partName="article.php | wijhatnadar" title="article.php | wijhatnadar" tooltip="/Applications/XAMPP/htdocs/wijhatnadar/app/views/helpers/article.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/wijhatnadar/app/views/helpers/article.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1016" selectionTopPixel="10"/>
+</editor>
+<editor id="com.aptana.editor.html" name="singlepost.html" partName="singlepost.html" title="singlepost.html" tooltip="/Users/mac/Documents/Woooork Own Woork/Next Magazine/ThemeForest - Next Magazine - Responsive Magazine Template - RIP/nextwpmagazine-html/singlepost.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/mac/Documents/Woooork%20Own%20Woork/Next%20Magazine/ThemeForest%20-%20Next%20Magazine%20-%20Responsive%20Magazine%20Template%20-%20RIP/nextwpmagazine-html/singlepost.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="30202" selectionTopPixel="2894"/>
+</editor>
+<editor id="com.aptana.editor.php" name="page_single_view_article.ctp" partName="page_single_view_article.ctp" title="page_single_view_article.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/page_single_view_article.ctp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/page_single_view_article.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="514" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.css" name="style.css" partName="style.css" title="style.css" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/webroot/css/frontend/style.css" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/webroot/css/frontend/style.css"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="14805" selectionTopPixel="11325"/>
+</editor>
+<editor id="com.aptana.editor.html" name="video.html" partName="video.html" title="video.html" tooltip="/Users/mac/Documents/Woooork Own Woork/Next Magazine/ThemeForest - Next Magazine - Responsive Magazine Template - RIP/nextwpmagazine-html/video.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/mac/Documents/Woooork%20Own%20Woork/Next%20Magazine/ThemeForest%20-%20Next%20Magazine%20-%20Responsive%20Magazine%20Template%20-%20RIP/nextwpmagazine-html/video.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="39" selectionOffset="3152" selectionTopPixel="1302"/>
+</editor>
+<editor id="com.aptana.editor.php" name="media_playlist.ctp" partName="media_playlist.ctp | wijhatnadar" title="media_playlist.ctp | wijhatnadar" tooltip="/Applications/XAMPP/htdocs/wijhatnadar/app/views/elements/boxes/media_playlist.ctp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/wijhatnadar/app/views/elements/boxes/media_playlist.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="38" selectionOffset="242" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.php" name="page_welcome.ctp" partName="page_welcome.ctp" title="page_welcome.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/page_welcome.ctp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/page_welcome.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="8" selectionOffset="638" selectionTopPixel="16"/>
+</editor>
+<editor id="com.aptana.editor.php" name="media_playlist.ctp" partName="media_playlist.ctp | sijilmassa" title="media_playlist.ctp | sijilmassa" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/media_playlist.ctp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/media_playlist.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="983" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.php" name="playlist.ctp" partName="playlist.ctp" title="playlist.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/playlist.ctp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/playlist.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="945" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="com.aptana.editor.php" name="page_listing.ctp" partName="page_listing.ctp | sijilmassa" title="page_listing.ctp | sijilmassa" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/page_listing.ctp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/page_listing.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="143" selectionOffset="199" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.php" name="page_listing.ctp" partName="page_listing.ctp | wijhatnadar" title="page_listing.ctp | wijhatnadar" tooltip="/Applications/XAMPP/htdocs/wijhatnadar/app/views/elements/boxes/page_listing.ctp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/wijhatnadar/app/views/elements/boxes/page_listing.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="391" selectionOffset="8" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.php" name="group_column_left.ctp" partName="group_column_left.ctp" title="group_column_left.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/group_column_left.ctp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/group_column_left.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.php" name="most.ctp" partName="most.ctp" title="most.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/most.ctp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/most.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1235" selectionTopPixel="196"/>
+</editor>
+<editor id="com.aptana.editor.php" name="application.ctp" partName="application.ctp" title="application.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/layouts/application.ctp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/layouts/application.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2322" selectionTopPixel="298"/>
+</editor>
+<editor id="com.aptana.editor.php" name="hpage_group_cats.ctp" partName="hpage_group_cats.ctp" title="hpage_group_cats.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/hpage_group_cats.ctp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/hpage_group_cats.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.php" name="hpage_cat.ctp" partName="hpage_cat.ctp" title="hpage_cat.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/hpage_cat.ctp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/hpage_cat.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="891" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.php" name="menus.ctp" partName="menus.ctp" title="menus.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/shared/menus.ctp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/shared/menus.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="17" selectionOffset="453" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.php" name="most_media.ctp" partName="most_media.ctp" title="most_media.ctp" tooltip="/Applications/XAMPP/htdocs/wijhatnadar/app/views/elements/boxes/most_media.ctp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/wijhatnadar/app/views/elements/boxes/most_media.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="19" selectionOffset="1676" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.php" name="box.php" partName="box.php" title="box.php" tooltip="/Applications/XAMPP/htdocs/wijhatnadar/app/models/box.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/wijhatnadar/app/models/box.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="875" selectionTopPixel="120"/>
+</editor>
+<editor id="com.aptana.editor.php" name="articles_controller.php" partName="articles_controller.php" title="articles_controller.php" tooltip="/Applications/XAMPP/htdocs/wijhatnadar/app/controllers/articles_controller.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/wijhatnadar/app/controllers/articles_controller.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="3251"/>
+</editor>
+<editor id="com.aptana.editor.php" name="gallery_playlist.ctp" partName="gallery_playlist.ctp" title="gallery_playlist.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/gallery_playlist.ctp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/gallery_playlist.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.php" name="page_home_gallery.ctp" partName="page_home_gallery.ctp" title="page_home_gallery.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/page_home_gallery.ctp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/page_home_gallery.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="com.aptana.terminal.views.terminal" partName="Terminal"/>
+<view id="com.aptana.samples.ui.SamplesView" partName="Samples"/>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems"/>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="com.aptana.editor.php" activePerspective="com.aptana.ui.WebPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.aptana.ui.internal.WebPerspectiveFactory" id="com.aptana.ui.WebPerspective" label="Web"/>
+<alwaysOnActionSet id="com.aptana.browser.actionSet"/>
+<alwaysOnActionSet id="com.aptana.ruby.debug.ui.RubyDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="com.aptana.editor.common.presentation"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="com.aptana.js.debug.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.presentation"/>
+<alwaysOnActionSet id="com.aptana.ui.globalActionSet"/>
+<alwaysOnActionSet id="com.aptana.terminal.actionSet"/>
+<show_view_action id="com.aptana.browser.views.webbrowser"/>
+<show_view_action id="com.aptana.explorer.view"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="com.aptana.ui.io.remoteview"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="com.aptana.samples.ui.SamplesView"/>
+<show_view_action id="com.aptana.terminal.views.terminal"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<new_wizard_action id="com.aptana.ui.wizards.NewWebProject"/>
+<new_wizard_action id="com.aptana.ruby.core.ui.rubyProjectWizard"/>
+<new_wizard_action id="com.aptana.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.radrails.rails.ui.projectWizard"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="com.aptana.terminal.views.terminal"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="com.aptana.samples.ui.SamplesView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="com.aptana.explorer.view" label="LabelNotFound"/>
+<page content="com.aptana.ui.io.remoteview" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="894" ratioRight="298" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.29446533" ratioLeft="548" ratioRight="1313" relationship="2" relative="left"/>
+<info folder="true" part="terminalArea" ratio="0.75" ratioLeft="663" ratioRight="221" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="com.aptana.terminal.views.terminal" label="Terminal"/>
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.pde.runtime.LogView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@ec0962" ratio="0.75" ratioLeft="663" ratioRight="221" relationship="4" relative="left">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="com.aptana.samples.ui.SamplesView" label="Samples"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/page_welcome.ctp"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/page_listing.ctp"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/Applications/XAMPP/htdocs/wijhatnadar/app/views/elements/boxes/page_listing.ctp"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/most.ctp"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/layouts/application.ctp"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/webroot/css/frontend/style.css"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/shared/menus.ctp"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/Applications/XAMPP/htdocs/wijhatnadar/app/views/elements/boxes/most_media.ctp"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/Applications/XAMPP/htdocs/wijhatnadar/app/models/box.php"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/Applications/XAMPP/htdocs/wijhatnadar/app/views/elements/boxes/media_playlist.ctp"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/Applications/XAMPP/htdocs/wijhatnadar/app/controllers/articles_controller.php"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/Applications/XAMPP/htdocs/wijhatnadar/app/controllers/pages_controller.php"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/media_playlist.ctp"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/playlist.ctp"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/gallery_playlist.ctp"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/page_home_gallery.ctp"/>
+</editors>
+<item historyLabel="most_media.ctp" index="7">
+<position info="not_deleted" x="1651" y="47"/>
+</item>
+<item historyLabel="most.ctp" index="3">
+<position/>
+</item>
+<item historyLabel="most_media.ctp" index="7">
+<position info="not_deleted" x="1651" y="84"/>
+</item>
+<item historyLabel="most.ctp" index="3">
+<position info="not_deleted" x="2518" y="0"/>
+</item>
+<item historyLabel="box.php" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="most_media.ctp" index="7">
+<position info="not_deleted" x="1676" y="19"/>
+</item>
+<item historyLabel="box.php" index="8">
+<position info="not_deleted" x="875" y="0"/>
+</item>
+<item historyLabel="most.ctp" index="3">
+<position info="not_deleted" x="1235" y="0"/>
+</item>
+<item historyLabel="page_welcome.ctp" index="0">
+<position info="not_deleted" x="638" y="8"/>
+</item>
+<item historyLabel="application.ctp" index="4">
+<position info="not_deleted" x="2034" y="153"/>
+</item>
+<item historyLabel="style.css" index="5">
+<position info="not_deleted" x="15015" y="0"/>
+</item>
+<item historyLabel="style.css" index="5">
+<position info="not_deleted" x="27744" y="0"/>
+</item>
+<item historyLabel="style.css" index="5">
+<position info="not_deleted" x="26780" y="0"/>
+</item>
+<item historyLabel="style.css" index="5">
+<position info="not_deleted" x="26828" y="0"/>
+</item>
+<item historyLabel="style.css" index="5">
+<position info="not_deleted" x="9402" y="0"/>
+</item>
+<item historyLabel="application.ctp" index="4">
+<position info="not_deleted" x="2322" y="0"/>
+</item>
+<item historyLabel="style.css" index="5">
+<position info="not_deleted" x="9402" y="0"/>
+</item>
+<item historyLabel="style.css" index="5">
+<position info="not_deleted" x="9471" y="0"/>
+</item>
+<item historyLabel="style.css" index="5">
+<position info="not_deleted" x="14805" y="0"/>
+</item>
+<item historyLabel="media_playlist.ctp | wijhatnadar" index="9">
+<position info="not_deleted" x="271" y="7"/>
+</item>
+<item historyLabel="menus.ctp" index="6">
+<position info="not_deleted" x="453" y="17"/>
+</item>
+<item historyLabel="media_playlist.ctp | wijhatnadar" index="9">
+<position info="not_deleted" x="271" y="7"/>
+</item>
+<item historyLabel="articles_controller.php" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="pages_controller.php | wijhatnadar" index="11">
+<position info="not_deleted" x="7209" y="11"/>
+</item>
+<item historyLabel="media_playlist.ctp | wijhatnadar" index="9">
+<position info="not_deleted" x="157" y="0"/>
+</item>
+<item historyLabel="media_playlist.ctp | sijilmassa" index="12">
+<position/>
+</item>
+<item historyLabel="media_playlist.ctp | wijhatnadar" index="9">
+<position info="not_deleted" x="157" y="0"/>
+</item>
+<item historyLabel="media_playlist.ctp | sijilmassa" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="playlist.ctp" index="13">
+<position info="not_deleted" x="945" y="0"/>
+</item>
+<item historyLabel="gallery_playlist.ctp" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="media_playlist.ctp | sijilmassa" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="playlist.ctp" index="13">
+<position info="not_deleted" x="945" y="0"/>
+</item>
+<item historyLabel="page_home_gallery.ctp" index="15">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="page_listing.ctp | sijilmassa" index="1">
+<position/>
+</item>
+<item historyLabel="media_playlist.ctp | sijilmassa" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="page_listing.ctp | sijilmassa" index="1">
+<position info="not_deleted" x="12791" y="0"/>
+</item>
+<item historyLabel="page_listing.ctp | wijhatnadar" index="2">
+<position info="not_deleted" x="8" y="391"/>
+</item>
+<item historyLabel="page_listing.ctp | sijilmassa" index="1">
+<position info="not_deleted" x="343" y="0"/>
+</item>
+<item historyLabel="media_playlist.ctp | sijilmassa" index="12">
+<position/>
+</item>
+<item historyLabel="media_playlist.ctp | wijhatnadar" index="9">
+<position info="not_deleted" x="242" y="38"/>
+</item>
+<item historyLabel="media_playlist.ctp | sijilmassa" index="12">
+<position/>
+</item>
+<item historyLabel="playlist.ctp" index="13">
+<position info="not_deleted" x="945" y="0"/>
+</item>
+<item historyLabel="page_listing.ctp | sijilmassa" index="1">
+<position info="not_deleted" x="343" y="0"/>
+</item>
+<item historyLabel="media_playlist.ctp | sijilmassa" index="12">
+<position/>
+</item>
+<item historyLabel="page_listing.ctp | sijilmassa" index="1">
+<position info="not_deleted" x="12791" y="0"/>
+</item>
+<item historyLabel="media_playlist.ctp | sijilmassa" index="12">
+<position info="not_deleted" x="124" y="0"/>
+</item>
+<item historyLabel="playlist.ctp" index="13">
+<position info="not_deleted" x="945" y="0"/>
+</item>
+<item historyLabel="media_playlist.ctp | sijilmassa" index="12">
+<position info="not_deleted" x="983" y="0"/>
+</item>
+<item historyLabel="playlist.ctp" index="13">
+<position info="not_deleted" x="945" y="0"/>
+</item>
+<item active="true" historyLabel="page_listing.ctp | sijilmassa" index="1">
+<position info="not_deleted" x="12791" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="page_home_gallery.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/page_home_gallery.ctp">
+<persistable uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/page_home_gallery.ctp"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="gallery_playlist.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/gallery_playlist.ctp">
+<persistable uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/gallery_playlist.ctp"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="articles_controller.php" tooltip="/Applications/XAMPP/htdocs/wijhatnadar/app/controllers/articles_controller.php">
+<persistable uri="file:/Applications/XAMPP/htdocs/wijhatnadar/app/controllers/articles_controller.php"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="box.php" tooltip="/Applications/XAMPP/htdocs/wijhatnadar/app/models/box.php">
+<persistable uri="file:/Applications/XAMPP/htdocs/wijhatnadar/app/models/box.php"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="most_media.ctp" tooltip="/Applications/XAMPP/htdocs/wijhatnadar/app/views/elements/boxes/most_media.ctp">
+<persistable uri="file:/Applications/XAMPP/htdocs/wijhatnadar/app/views/elements/boxes/most_media.ctp"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="menus.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/shared/menus.ctp">
+<persistable uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/shared/menus.ctp"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="hpage_cat.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/hpage_cat.ctp">
+<persistable uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/hpage_cat.ctp"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="hpage_group_cats.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/hpage_group_cats.ctp">
+<persistable uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/hpage_group_cats.ctp"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="application.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/layouts/application.ctp">
+<persistable uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/layouts/application.ctp"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="most.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/most.ctp">
+<persistable uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/most.ctp"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="group_column_left.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/group_column_left.ctp">
+<persistable uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/group_column_left.ctp"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="page_listing.ctp" tooltip="/Applications/XAMPP/htdocs/wijhatnadar/app/views/elements/boxes/page_listing.ctp">
+<persistable uri="file:/Applications/XAMPP/htdocs/wijhatnadar/app/views/elements/boxes/page_listing.ctp"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="page_listing.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/page_listing.ctp">
+<persistable uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/page_listing.ctp"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="playlist.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/playlist.ctp">
+<persistable uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/playlist.ctp"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="media_playlist.ctp" tooltip="/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/media_playlist.ctp">
+<persistable uri="file:/Applications/XAMPP/htdocs/sijilmassa/app/views/elements/boxes/media_playlist.ctp"/>
+</file>
+</mruList>
+</workbench>
