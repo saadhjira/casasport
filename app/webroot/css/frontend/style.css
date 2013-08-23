@@ -105,6 +105,25 @@ body {
 	border-color: #143966 !important;
 }
 
+
+.home_cats_raja {
+	background: #DAFFDE !important;
+}
+
+.home_cats_wydad {
+	background: #FFDADE;
+}
+
+.home_cats_magana {
+	background: url('../../img/frontend/rca.jpg') no-repeat center center;
+	background-size: 100% 100%;
+}
+
+.home_cats_frimija {
+	background: url('../../img/frontend/wac.jpg') no-repeat center center;
+	background-size: 100% 100%;
+}
+
 /*-------------------------------------------------*/
 /* =  Poll Styles
 /*-------------------------------------------------*/
@@ -247,7 +266,7 @@ a {
 	-webkit-transition: color 0.2s linear;
 	-o-transition: color 0.2s linear;
 	outline: none;
-	color: #509ABD;
+	color: #000;
 }
 
 a:hover {
@@ -1175,7 +1194,7 @@ ul.sf-menu li.sfHover li ul { top: -999em }
 	width: 275px;
 	border-left: 1px solid #C5C5C5;
 	float: left;
-	background: #DEDEDE;
+	/*background: #DEDEDE;*/
 	position: relative;
 	bottom: 0px;
 	padding: 15px 20px 0px 20px;
