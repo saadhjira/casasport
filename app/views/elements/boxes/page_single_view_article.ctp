@@ -109,6 +109,9 @@ $this->set("facedesc",'<meta property="og:description" content="'.$descString.'"
 				<!-- End Social Box -->
 
 			</div>
+			<div class="post-container ads-post-full">
+	        	<?php echo $this->Html->image('frontend/upload/ads-post.jpg');?>
+	        </div>
 			<div class="carousel-post-container">
 	        	<div class="post-container scroll-post" style="padding-right: 0px;">
 		        	<h2 style="padding-right: 20px;"><?php  echo $this -> Html -> link("اقرأ أيضا",'#' );?></h2>
@@ -140,9 +143,6 @@ $this->set("facedesc",'<meta property="og:description" content="'.$descString.'"
 		        	</ul>
 		        </div>
 			</div>
-			<div class="post-container ads-post-full">
-	        	<?php echo $this->Html->image('frontend/upload/ads-post.jpg');?>
-	        </div>
 			<div id="reply" class="post-container padding">
 				<h2><?php  echo $this -> Html -> link("تعليقك على الموضوع",'#' );?></h2>
 				<div class="fb-comments" data-href="http://www.wijhatnadar.com" data-width="470" data-num-posts="10"></div>
