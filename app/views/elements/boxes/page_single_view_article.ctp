@@ -29,7 +29,7 @@ $this->set("facedesc",'<meta property="og:description" content="'.$descString.'"
 			  		 ?>
 			  	</p>
 				 <!-- AddThis Button BEGIN -->
-                <div class="addthis_toolbox addthis_default_style ">
+                <div class="addthis_toolbox addthis_default_style " style="float: right;">
 		            <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
 		            <a class="addthis_button_tweet" data-lang="en"></a>
 		            <a class="addthis_counter addthis_pill_style"></a>
@@ -94,18 +94,11 @@ $this->set("facedesc",'<meta property="og:description" content="'.$descString.'"
 				<?php echo $articleItem['Article']['body'];; ?>
 				
 				<!-- Social Box -->
-				<div class="socialbox-container clearfix">
-					<!-- Comments -->
-					<div class="socialbox">
-						<div class="addthis_toolbox addthis_default_style ">
-				            <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
-				            <a class="addthis_button_tweet" data-lang="en"></a>
-				            <a class="addthis_counter addthis_pill_style"></a>
-		                </div>
-					</div>
-					<!-- End Comments -->
-				</div>
-				
+				<div class="addthis_toolbox addthis_default_style " style="float: right;">
+		            <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+		            <a class="addthis_button_tweet" data-lang="en"></a>
+		            <a class="addthis_counter addthis_pill_style"></a>
+                </div>
 				<!-- End Social Box -->
 
 			</div>
