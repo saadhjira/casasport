@@ -246,6 +246,7 @@ class AlhayatsController extends AppController {
         
         $this -> loadModel('Article');
 		$this -> loadModel('Category');
+		
 
 		$filters = array();
 		$options = array();
@@ -261,16 +262,45 @@ class AlhayatsController extends AppController {
 
 		$articles = $this -> Article -> find('all',$options);
 		
-		foreach ($articles as $value) {
-			if (!file_exists(WWW_ROOT . "Journal".DS."".$value["Category"][0]["title"])) {
-				mkdir(WWW_ROOT . "Journal".DS."".$value["Category"][0]["title"]);
-			}
-		}
-		
-		$this->set(compact('articles'));
-		$this->viewPath="articles";
-		
-		$this->render("xml/sitemap");
+		// if (!file_exists("/Users/sadjira/Desktop/testFolder/Journal/photo")) {
+			// mkdir("/Users/sadjira/Desktop/testFolder/Journal/photo");
+		// }
+// 
+		// foreach ($articles as $value) {
+			// if (!file_exists("/Users/sadjira/Desktop/testFolder/Journal".DS."".$value["Category"][0]["title"])) {
+				// mkdir("/Users/sadjira/Desktop/testFolder/Journal".DS."".$value["Category"][0]["title"]);
+			// }
+			
+		    $path = WWW_ROOT . 'attachements' . DS . "photos/big/".$articles[0]["Media"][0]["media_file_name"];
+			
+			print_r("path : ".$path);
+			
+			$extension = explode(".", $articles[0]["Media"][0]["media_file_name"]);
+			
+			print_r($extension);
+		    
+			$this->viewClass = 'Media';
+			
+		    // in this example $path should hold the filename but a trailing slash
+		    $params = array(
+		        'name' => $articles[0]["Media"][0]["media_file_name"],
+		        'download' => true,
+		        'extension' => $extension[1],
+		        'path' => $path
+		    );
+			
+			print_r($params);
+			
+		    $this->set($params);
+		// }
+// 		
+// 		
+// 		
+// 		
+		// $this->set(compact('articles'));
+		// $this->viewPath="articles";
+// 		
+		// $this->render("xml/sitemap");
     }
 }
 ?>
