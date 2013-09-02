@@ -33,13 +33,13 @@
 	     for optimal performance, create your own custom Modernizr build: www.modernizr.com/download/ -->
 	<?php echo $this->Html->script(array('frontend/libs/modernizr-2.0.6.custom.min.js'));?>		
 	<script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.2/webfont.js"></script>
-	<script>
+	<!-- <script>
 	    WebFont.load({
 	      google: {
 	        families: ['Droid Arabic Kufi', 'tahoma']
 	      }
 	    });
-	</script>
+	</script> -->
 </head>
 <body>
 	<div id="fb-root"></div>

@@ -7,7 +7,10 @@
 	          array('escape'=>false)
 	      );
 	    ?>
-		<h3><?php echo $this->Html->link($this->Text->truncate(strip_tags($result['Article']['title']),60),$this->Article->paramsUrl($result)); ?></h3>
-		<span class="data-post">March 25, 2012</span>
+		<h3>
+			<?php echo $this->Html->link($this->Text->truncate(strip_tags($result['Article']['title']),60),$this->Article->paramsUrl($result)); ?>
+			<span class="data-post">March 25, 2012</span>
+		</h3>
+		
 	</li>
 <?php endforeach; ?>
