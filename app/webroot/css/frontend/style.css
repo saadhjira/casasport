@@ -110,25 +110,6 @@ body {
 	border-color: #0073FF !important;
 }
 
-
-.home_cats_raja {
-	/*background: #DAFFDE !important;*/
-}
-
-.home_cats_wydad {
-	background: #FFDADE;
-}
-
-.home_cats_magana {
-	background: url('../../img/frontend/rca.jpg') no-repeat center center;
-	background-size: 100% 100%;
-}
-
-.home_cats_frimija {
-	background: url('../../img/frontend/wac.jpg') no-repeat center center;
-	background-size: 100% 100%;
-}
-
 /*-------------------------------------------------*/
 /* =  Poll Styles
 /*-------------------------------------------------*/
@@ -178,14 +159,125 @@ body {
 /*-------------------------------------------------*/
 /* =  Main Content Styles
 /*-------------------------------------------------*/
-.hrajacats {
-		width: 303px;
-		background-color: green;
-		height: 42px;
-		color: white;
-		padding-top: 10px;
-		padding-right: 10px;
-	}
+.home_cats_raja {
+	width: 309px;
+	background-color: green;
+	height: 42px;
+	color: white;
+	padding-top: 10px;
+	padding-right: 10px;
+	position: absolute;
+	margin-top: -15px;
+	margin-right: -20px;
+}
+
+.home_cats_wydad {
+	width: 309px;
+	background-color: red;
+	height: 42px;
+	color: white;
+	padding-top: 10px;
+	padding-right: 10px;
+	position: absolute;
+	margin-top: -15px;
+	margin-right: -20px;
+}
+
+.home_cats_magana {
+	width: 309px;
+	background-color: #ff9933;
+	height: 42px;
+	color: white;
+	padding-top: 10px;
+	padding-right: 10px;
+	position: absolute;
+	margin-top: -15px;
+	margin-right: -20px;
+}
+
+.home_cats_frimija {
+	width: 309px;
+	background-color: #E809CA;
+	height: 42px;
+	color: white;
+	padding-top: 10px;
+	padding-right: 10px;
+	position: absolute;
+	margin-top: -15px;
+	margin-right: -20px;
+}
+
+.home_cats_casafoot {
+	width: 309px;
+	background-color: #785280;
+	height: 42px;
+	color: white;
+	padding-top: 10px;
+	padding-right: 10px;
+	position: absolute;
+	margin-top: -15px;
+	margin-right: -20px;
+}
+
+.home_cats_casasport {
+	width: 309px;
+	background-color: #859105;
+	height: 42px;
+	color: white;
+	padding-top: 10px;
+	padding-right: 10px;
+	position: absolute;
+	margin-top: -15px;
+	margin-right: -20px;
+} 
+
+.home_cats_liondelatlas {
+	width: 309px;
+	background-color: #3366cc ;
+	height: 42px;
+	color: white;
+	padding-top: 10px;
+	padding-right: 10px;
+	position: absolute;
+	margin-top: -15px;
+	margin-right: -20px;
+}
+
+.home_cats_internationaux {
+	width: 309px;
+	background-color: #FFD20C;
+	height: 42px;
+	color: white;
+	padding-top: 10px;
+	padding-right: 10px;
+	position: absolute;
+	margin-top: -15px;
+	margin-right: -20px;
+}
+
+.home_cats_classico {
+	width: 309px;
+	background-color: #929291;
+	height: 42px;
+	color: white;
+	padding-top: 10px;
+	padding-right: 10px;
+	position: absolute;
+	margin-top: -15px;
+	margin-right: -20px;
+}
+
+.home_cats_international {
+	width: 309px;
+	background-color: #00ccff;
+	height: 42px;
+	color: white;
+	padding-top: 10px;
+	padding-right: 10px;
+	position: absolute;
+	margin-top: -15px;
+	margin-right: -20px;
+}
 
 address { font-style: italic; }
 
@@ -1265,7 +1357,7 @@ ul.sf-menu li.sfHover li ul { top: -999em }
 	height: 46px;
 	position: absolute;
 	left: 0px;
-	border: 7px solid rgba(0, 0, 0, 0.9);
+	/*border: 7px solid rgba(0, 0, 0, 0.9);*/
 }
 
 .post-container .right li > a:hover:before{
@@ -2873,15 +2965,17 @@ h1.title-post {
 
 .singlepost p {
 	margin-bottom: 15px;
-	font-size: 18px;
+	font-size: 20px;
 	font-family: tohama;
+	text-align: justify;
+	line-height: 26px;
 }
 
 .singlepost h1 {
 	color: #000;
-	font-size: 24px;
-	line-height: 24px;
 	font-weight: bold;
+	font-size: 28px;
+	line-height: 40px;
 }
 
 .singlepost h2 {

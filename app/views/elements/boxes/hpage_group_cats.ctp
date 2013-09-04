@@ -4,13 +4,18 @@
 	<?php $boxes = $box->executeQuery($children[$i]); ?>
 	<div class="post-container">
 		<div>
-			<div class="hrajacats">
-				<h1 style="font-size: 200%;margin-bottom: 10px;color: black;"><?php  echo $this -> Html -> link($children[$i]['Box']['label'], array('controller' => 'pages', 'action' => 'show', 'menu' => $lab),array("style"=>"color: white;"));?></h1>
-        	</div>
-			<div class="right <?php echo $children[$i]['Box']['title'];?>" style="float: right;width: 273px;">
+			<div class="right" style="float: right;width: 273px;">
+				<div class="<?php echo $children[$i]['Box']['title'];?>">
+					<h1 style="font-size: 200%;margin-bottom: 10px;color: black;"><?php  echo $this -> Html -> link($children[$i]['Box']['label'], array('controller' => 'pages', 'action' => 'show', 'menu' => $lab),array("style"=>"color: white;"));?></h1>
+	        	</div>
 	        	<ul>
 	        		<?php for ($j=0; $j < sizeof($boxes); $j++) :?>   
-		        		<li>
+		        		<?php if($j == 0) {?>
+	        				<li style="margin-top: 53px;">
+	        			<?php }else{ ?>
+		        			<li>
+	        			<?php } ?>
+	        			
 		        			<?php  echo $this -> Html -> link($this->Article->extractMedPhoto($boxes[$j]), $this -> Article -> paramsUrl($boxes[$j]),array("escape"=>false) );?>
 		        			<h3><a href="#"><?php  echo $this -> Html -> link($boxes[$j]['Article']['title'], $this -> Article -> paramsUrl($boxes[$j]));?></a></h3>
 		        			<span class="data-post">
@@ -29,13 +34,17 @@
 	     </div>
 	     <?php $i++; $lab = (string)$children[$i]['Box']['link']; ?>
 		<?php $boxes = $box->executeQuery($children[$i]); ?>
-        <div class="right <?php echo $children[$i]['Box']['title'];?>">
-			<div class="hwydadcats">
+        <div class="right">
+			<div class="<?php echo $children[$i]['Box']['title'];?> ">
 				<h1 style="font-size: 200%;margin-bottom: 10px;color: black;"><?php  echo $this -> Html -> link($children[$i]['Box']['label'], array('controller' => 'pages', 'action' => 'show', 'menu' => $lab),array("style"=>"color: white;"));?></h1>
 	    	</div>
         	<ul>
         		<?php for ($j=0; $j < sizeof($boxes); $j++) :?>   
-	        		<li>
+	        		<?php if($j == 0) {?>
+	        				<li style="margin-top: 53px;">
+	        			<?php }else{ ?>
+		        			<li>
+	        			<?php } ?>
 	        			<?php  echo $this -> Html -> link($this->Article->extractMedPhoto($boxes[$j]), $this -> Article -> paramsUrl($boxes[$j]),array("escape"=>false) );?>
 	        			<h3><a href="#"><?php  echo $this -> Html -> link($boxes[$j]['Article']['title'], $this -> Article -> paramsUrl($boxes[$j]));?></a></h3>
 	        			<span class="data-post">

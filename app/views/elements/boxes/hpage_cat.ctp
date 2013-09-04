@@ -6,7 +6,11 @@
 						<h2><?php  echo $this -> Html -> link($result['Box']['label'], array('controller' => 'pages', 'action' => 'show', 'menu' => $lab));?></h2>
 			        	<ul>
 			        		<?php for ($i=1; $i < sizeof($boxes); $i++) :?>   
-				        		<li>
+			        			<?php if($i == 1) {?>
+			        				<li style="margin-top: 53px;">
+			        			<?php }else{ ?>
+				        			<li>
+			        			<?php } ?>
 				        			<?php  echo $this -> Html -> link($this->Article->extractMedPhoto($boxes[$i]), $this -> Article -> paramsUrl($boxes[$i]),array("escape"=>false) );?>
 				        			<h3><a href="#"><?php  echo $this -> Html -> link($boxes[$i]['Article']['title'], $this -> Article -> paramsUrl($boxes[$i]));?></a></h3>
 				        			<span class="data-post">
